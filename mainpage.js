@@ -156,7 +156,7 @@ function AwesomeCityClub() {
     ContentText.innerHTML = "";
     ContentText.innerHTML += '<img src = AwesomeCityClub1.jpg width="640"/>'
     ContentText.innerHTML += '<h1>Awesome City Club<h1>'
-    ContentText.innerHTML += '<p>以東京為據點，由 Atagi、Morisee、Matsuzaka Takumi、Yukie、PORIN五人組成的樂團 </p>';
+    ContentText.innerHTML += '<p>以東京為據點，由 Atagi、Morisee、Matsuzaka Takumi、Yukie、PORIN五人組成的樂團。</p>';
     ContentText.innerHTML += '<p>最能代表近代日本City Pop的團體，兼具復古與流行思維，並以「虛構城市 Awesome City 的 Soundtrack 」為創作概念。</p>'
     ContentText.innerHTML += '<h1>出演曲目:勿忘</h1>'
     ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/zkZARKFuzNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
@@ -194,7 +194,7 @@ function 上白石萌音() {
     ContentText.innerHTML += '<p>2016年替新海誠編劇執導的動畫電影《你的名字》女主角宮水三葉配音大開知名度。</p>';
     ContentText.innerHTML += '<h1>出演曲目:夜明けをくちずさめたら</h1>'
     ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/A_04CDFV7g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
-    ContentText.innerHTML += '<p>上白石萌音第7張數位單曲，詞曲皆為水野良樹創作，自2020年4月從NHK的音樂節目『みんなのうた』開始串流</p>';
+    ContentText.innerHTML += '<p>上白石萌音第7張數位單曲，詞曲皆為水野良樹創作，自2020年4月從NHK的音樂節目『みんなのうた』開始串流。</p>';
 }
 
 function milet() {
@@ -282,7 +282,7 @@ function 乃木坂46() {
     ContentText.innerHTML += '<p>乃木坂46是日本大型女子偶像團體，成立於2011年8月21日；其出道時定位為另一女子偶像團體AKB48的「官方對手」，但有獨立的幕後團隊，行銷策略及團體風格也與AKB48系列團體不同，惟總製作人同樣是秋元康。</p>';
     ContentText.innerHTML += '<h1>出演曲目:きっかけ</h1>'
     ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/g0reB9P3fjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
-    ContentText.innerHTML += '<p>收錄於乃木坂46的第2張音輯《それぞれの椅子》，於2016年5月由N46Div.發行。</p>';
+    ContentText.innerHTML += '<p>收錄於乃木坂46的第2張專輯《それぞれの椅子》，於2016年5月由N46Div.發行。</p>';
 }
 
 function 坂本冬美() {
@@ -308,7 +308,7 @@ function YOASOBI() {
     ContentText.innerHTML += '<p>ブルボン公司的「アルフォートミニチョコレート」零食廣告主題曲，有別於組合製作的其他曲子，群青是唯一一個不是透過小說音樂化的作品，而是由漫畫家山口飛翔創作的漫畫《藍色時期》改編而成。</p>';
     ContentText.innerHTML += '<h1>推薦曲目:夜に駆ける</h1>'
     ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/x8VYWazR5mE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
-    ContentText.innerHTML += '<p>組合成立後推出的第一個作品，為2020年最熱門的歌曲，日本告示牌》的「日本百大單曲榜」、「下載歌曲」和「串流播放歌曲」三個週榜蟬連三次冠軍，同時也是雙人組合串流數量最高的作品。</p>'
+    ContentText.innerHTML += '<p>組合成立後推出的第一個作品，為2020年最熱門的歌曲，於《日本告示牌》的「日本百大單曲榜」、「下載歌曲」和「串流播放歌曲」三個週榜蟬連三次冠軍，同時也是雙人組合串流數量最高的作品。</p>'
     ContentText.innerHTML += '<p>改編自星野舞夜創作的小說《タナトスの誘惑》，講述一名精神病患者與自己所幻想出來的「死神大人」奔赴死亡的故事。</p>'
 }
 
@@ -427,13 +427,13 @@ function 郷ひろみ() {
     ContentText.innerHTML += '<h1>郷ひろみ<h1>'
     ContentText.innerHTML += '<p>鄉裕美（1955年10月18日－），原名「原武裕美」（是日本的一名男性歌手和演員。鄉裕美出生於福岡縣，但在東京都長大。目前隸屬於Burning Production。</p>'
     ContentText.innerHTML += '<p>1971年在銀座的試鏡中被強尼喜多川選中，加入了傑尼斯事務所，便開啟了自己的演藝道路，曾主演《青春をつっ走れ》、《あしたに駈けろ!》以及《ちょっとしあわせ》······等多部電視劇。</p>'
-    ContentText.innerHTML += '<p>曾在紅白中連續4年擔任白組的先攻打手，為歷年白組出場歌手中最多（全體最多為2012的濱崎步）</p>'
+    ContentText.innerHTML += '<p>曾在紅白中連續4年擔任白組的先攻打手，為歷年白組出場歌手中最多（全體最多為2012的濱崎步）。</p>'
     ContentText.innerHTML += '<h1>出演曲目:2億4千万の瞳-エキゾチック・ジャパン-</h1>'
     ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/f8XUgBMSDWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
-    ContentText.innerHTML += '<p>1984年發售的歌曲，用於日本國鐵的宣傳活動，並且在2007年改編作為BSデジタル放送突破3000萬台的紀念活動歌曲</p>'
+    ContentText.innerHTML += '<p>1984年發售的歌曲，用於日本國鐵的宣傳活動，並且在2007年改編作為BSデジタル放送突破3000萬台的紀念活動歌曲。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:言えないよ</h1>'
     ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/qc337kkjCwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
-    ContentText.innerHTML += '<p>1995年的原創敘事樂曲中的最後一首，與2億4千萬の瞳、逢いたくてしかたない總稱為敘事樂曲三部曲</p>'
+    ContentText.innerHTML += '<p>1995年的原創敘事樂曲中的最後一首，與2億4千萬の瞳、逢いたくてしかたない總稱為敘事樂曲三部曲。</p>'
 }
 
 function DISH() {
@@ -444,7 +444,7 @@ function DISH() {
     ContentText.innerHTML += '<p>起初僅為手拿樂器的唱跳團體，本身並不演奏，但到後來有了想做自己的音樂的想法，成功轉型成一個真正的樂團。</p>'
     ContentText.innerHTML += '<p>在2021年首次登上紅白。</p>'
     ContentText.innerHTML += '<h1>出演曲目:猫</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/C46SFG6vHHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/gsT6eKsnT0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>為知名創作歌手あいみょん作詞作曲，是在他們2017年推出的單曲《僕たちがやりました》中收錄的一首歌，被歌迷稱為隱藏神曲，直到SONY的THE FIRST TAKE邀請他們在Youtube頻道中表演後，才一口氣爆紅。</p>'
 }
 
@@ -630,7 +630,7 @@ function 星野源() {
     ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/ilnLczvLGAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>星野源第12張單曲，為日劇『着飾る恋には理由があって』主題曲，睽違三年半的新作品。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:恋</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/jhOVibLEDhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/jhOVibLEDhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>星野源的第9首單曲，2016年10月5日由勝利娛樂旗下的SPEEDSTAR RECORDS發行，是星野源與新垣結衣主演電視劇《月薪嬌妻》主題曲。</p>'
     ContentText.innerHTML += '<p>得過無數日本音樂排行榜冠軍，至今仍為星野源撥放數最高的歌曲。</p>'
 }
@@ -675,7 +675,7 @@ function 布袋寅泰() {
 
 function 福山雅治() {
     ContentText.innerHTML = "";
-    ContentText.innerHTML += '<img src = 福山雅治1.Png width="640"/>'
+    ContentText.innerHTML += '<img src = 福山雅治1.png width="640"/>'
     ContentText.innerHTML += '<h1>福山雅治<h1>'
     ContentText.innerHTML += '<p>日本男性創作歌手、演員、電台DJ、攝影師，出生於長崎，並擔任長崎故鄉大使。所屬經紀公司為AMUSE，所屬唱片公司為環球音樂。</p>'
     ContentText.innerHTML += '<p>除了早期剛出道時的少數作品，福山雅治的音樂詞曲都由他本人創作，根據日本Oricon統計，截至2017年9月，福山雅治的音樂作品總銷量達到2410萬張，為日本歷代男性獨唱歌手的銷量冠軍。</p>'
