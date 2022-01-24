@@ -115,7 +115,6 @@ function LiSA(){
     ContentText.innerHTML += '<p>LiSA（1987年6月24日－）是日本女歌手，岐阜縣出身，曾為搖滾樂團「Love is Same All」的主唱，現所屬唱片公司為日本索尼音樂娛樂旗下的SACRA MUSIC。演唱過許多知名動畫的片頭曲和片尾曲，如《刀劍神域》、《Fate/Zero》、《偽戀》、《穿透幻影的太陽》。</p>';
     ContentText.innerHTML += '<p>LiSA的發跡為動畫Angle Beats!的邀情，以Girls Dead Monster starring LiSA的名義為劇中腳色由依代唱。後來在2011以LiSA的身分個人主流出道，並發表出道作《Letters to U》，同年首張單曲《oath sign》作為知名動畫Fate/zero的主題曲，在日本Oricon公信榜獲得第5位</p>'
     ContentText.innerHTML += '<p>2020年以《鬼滅之刃劇場版 無限列車篇》的主題曲《炎》獲得日本唱片大獎，進而走進大眾的視野中。</p>'
-    ContentText.innerHTML += '<img src = LiSA2.jpg width="640"/>'
     ContentText.innerHTML += '<h1>出演曲目:明け星</h1>'
     ContentText.innerHTML += '<iframe id="ytplayer" type="text/html" width="640" height="360"src="https://www.youtube.com/embed/yGcm81aaTHg"frameborder="0"></iframe>';
     ContentText.innerHTML += '<p>收錄收錄在LiSA的第20張單曲專輯《明け星/白銀》中，是TV動畫《鬼滅之刃 無限列車篇》的片頭曲。</p>';
@@ -141,12 +140,11 @@ function NiziU(){
 
 function 櫻坂46() { 
     ContentText.innerHTML = "";
-    ContentText.innerHTML += '<img src = 櫻坂461.jpg width="640"/>'
+    ContentText.innerHTML += '<img src = 流れ弾.jpg width="640"/>'
     ContentText.innerHTML += '<h1>櫻坂46<h1>'
     ContentText.innerHTML += '<p>櫻坂46是日本大型女子偶像團體，為繼乃木坂46之後成立的第2個「坂道系列」團體。</p>';
     ContentText.innerHTML += '<p>組團時原定名為「櫸坂46」，2020年10月14日起改為現名櫻坂46。 </p>'
     ContentText.innerHTML += '<p>旗下曾擁有一附屬團體「平假名櫸坂46」，後來獨立並改名為日向坂46。</p>'
-    ContentText.innerHTML += '<img src = 流れ弾.jpg width="640"/>'
     ContentText.innerHTML += '<h1>出演曲目:流れ弾</h1>'
     ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/drCopBcrxRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
     ContentText.innerHTML += '<p>《流彈》是日本女子偶像組合櫻坂46的第3張單曲，由Sony Records於2021年10月13日發行。Center（中心成員）由田村保乃擔任。</p>';
