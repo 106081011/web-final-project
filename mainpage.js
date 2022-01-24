@@ -272,7 +272,7 @@ function millenniumparade() {
     ContentText.innerHTML += '<p>日本女歌手，20歲進入京都精工大學進行音樂相關活動，2016 年發行首張專輯《Repeat Tower Gatatsu》即獲得好評，同年便出現在日本知名音樂祭 FUJI ROCK 中，亮眼表現成功吸引到大眾目光而逐漸打開知名度。</p>';
     ContentText.innerHTML += '<h1>出演曲目:U</h1>'
     ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/R3V4sAXUJ-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
-    ContentText.innerHTML += '<p>細田守打造的動畫電影『竜とそばかすの姫』主題曲，由兩個指標的當代音樂人合作，於2021年8月全國配信，中村佳穂也中村佳穂替動畫女主角鈴（女高中生）與 Belle（虛擬歌姬）的雙重身分配音。</p>';
+    ContentText.innerHTML += '<p>細田守打造的動畫電影『竜とそばかすの姫』主題曲，由兩個指標的當代音樂人合作，於2021年8月全國配信，中村佳穂也替動畫女主角鈴（女高中生）與 Belle（虛擬歌姬）的雙重身分配音。</p>';
 }
 
 function 乃木坂46() {
