@@ -680,7 +680,7 @@ function 福山雅治() {
     ContentText.innerHTML += '<h1>出演曲目:道標</h1>'
     ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/JYW__3jgkxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>2009年迎來出道20週年的福山雅治，創作了融入對敬愛的祖母的思念的新曲，同曲是日本電視台報道節目《NEWS ZERO》的主題曲。</p>'
-    ContentText.innerHTML += '<h1>推薦曲目:恋</h1>'
+    ContentText.innerHTML += '<h1>推薦曲目:はつ恋</h1>'
     ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/g2REisKOrOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>福山雅治第25張單曲，由日本環球音樂製作並販售，同時也作為東芝液晶電視《REGZA》廣告曲。</p>'
 }
