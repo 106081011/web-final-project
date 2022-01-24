@@ -429,10 +429,10 @@ function 郷ひろみ() {
     ContentText.innerHTML += '<p>1971年在銀座的試鏡中被強尼喜多川選中，加入了傑尼斯事務所，便開啟了自己的演藝道路，曾主演《青春をつっ走れ》、《あしたに駈けろ!》以及《ちょっとしあわせ》······等多部電視劇。</p>'
     ContentText.innerHTML += '<p>曾在紅白中連續4年擔任白組的先攻打手，為歷年白組出場歌手中最多（全體最多為2012的濱崎步）。</p>'
     ContentText.innerHTML += '<h1>出演曲目:2億4千万の瞳-エキゾチック・ジャパン-</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/f8XUgBMSDWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/f8XUgBMSDWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>1984年發售的歌曲，用於日本國鐵的宣傳活動，並且在2007年改編作為BSデジタル放送突破3000萬台的紀念活動歌曲。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:言えないよ</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/qc337kkjCwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/qc337kkjCwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>1995年的原創敘事樂曲中的最後一首，與2億4千萬の瞳、逢いたくてしかたない總稱為敘事樂曲三部曲。</p>'
 }
 
@@ -444,7 +444,7 @@ function DISH() {
     ContentText.innerHTML += '<p>起初僅為手拿樂器的唱跳團體，本身並不演奏，但到後來有了想做自己的音樂的想法，成功轉型成一個真正的樂團。</p>'
     ContentText.innerHTML += '<p>在2021年首次登上紅白。</p>'
     ContentText.innerHTML += '<h1>出演曲目:猫</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/gsT6eKsnT0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/gsT6eKsnT0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>為知名創作歌手あいみょん作詞作曲，是在他們2017年推出的單曲《僕たちがやりました》中收錄的一首歌，被歌迷稱為隱藏神曲，直到SONY的THE FIRST TAKE邀請他們在Youtube頻道中表演後，才一口氣爆紅。</p>'
 }
 
@@ -455,10 +455,10 @@ function 山内惠介() {
     ContentText.innerHTML += '<p>山內惠介（1983年5月31日－）是一名日本男性演歌歌手，出生於九州福岡縣糸島郡前原町（即現時的糸島市），目前所屬唱片公司為JVC建伍勝利娛樂。</p>'
     ContentText.innerHTML += '<p>山內惠介與有「演歌王子」之稱的冰川清志為同鄉，而大家亦恰巧在同一時期師隨歌謠曲作曲家水森英夫學習，為他的門下學生。</p>'
     ContentText.innerHTML += '<h1>出演曲目:有楽町で逢いましょう</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/7Nog3QNmCq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/7Nog3QNmCq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>原唱為日本另一名演歌大師フランク永井，山內惠介在此次比賽中選擇翻唱這一首歌。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:スポットライト</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/9-fhQGaL68o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/9-fhQGaL68o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>山內的出道只比冰川晚一年，但相比冰川一出道便保持極高的超人氣支持度，山內的認識度一直都都遠被拋離，直至2015年憑此曲《Spotlight》爆紅，才使更多人對他開始有所認識。</p>'
 }
 
@@ -469,7 +469,7 @@ function GENERATIONS() {
     ContentText.innerHTML += '<p>放浪新世代 from 放浪一族是日本7人男子組合，所屬的演藝公司為LDH，唱片公司為rhythm zone，於2011年結成。 </p>'
     ContentText.innerHTML += '<p>GENERATIONS為「EXILE Pyramid」的其中一個所屬部份。而成員均是「有夢想的年輕的挑戰者」，同時亦被認同為「承繼EXILE之信念的人」，而有能力者將成為「EXILE TRIBE(EXILE一族)」之一。</p>'
     ContentText.innerHTML += '<h1>出演曲目:Make Me Better</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="340" src="https://www.youtube.com/embed/TBdhE_Q-aNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/TBdhE_Q-aNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>發布於2021年的第六張專輯『Up & Down』。</p>'
 }
 
@@ -480,7 +480,7 @@ function 純烈() {
     ContentText.innerHTML += '<p>純烈，是日本的四人男子男子團體，以演唱日本歌謠曲及演歌，於2008年成立。現時所屬的唱片公司為日本皇冠，經紀公司為G-STAR.PRO。 </p>'
     ContentText.innerHTML += '<p>成團以來一直奉行「親孝行」（孝順）、「紅白出場」以及「全國47個都道府縣巡迴演唱會」為目標。</p>'
     ContentText.innerHTML += '<h1>出演曲目:君がそばにいるから</h1>'
-    ContentText.innerHTML += '<iframe width="560" height="315" src="https://www.youtube.com/embed/s1ff76MCmtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/s1ff76MCmtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>發布於2021年的第六張專輯『Up & Down』。</p>'
 }
 
@@ -491,10 +491,10 @@ function SixTONES() {
     ContentText.innerHTML += '<p>SixTONES是由傑尼斯事務所的傑西、松村北斗、森本慎太郎、京本大我、田中樹及高地優吾所組成的團體，於2015年5月1日結成，2020年1月22日正式發行單曲出道。</p>'
     ContentText.innerHTML += '<p>ix不發音，唸作STONES。代表六名成員都有各自屬於自己的音色。有別於一般傑尼斯藝人多為自己投履歷參加甄選，成員當中有一半是被社長發掘而加入傑尼斯。六名成員皆加入傑尼斯長達10年以上，最小的在9歲就被發掘入社。 </p>'
     ContentText.innerHTML += '<h1>出演曲目:マスカラ</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/WAvDu9DzcSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/WAvDu9DzcSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>於2021發布的第五張單曲，由KingGnu的製作人常田大希負責詞曲。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:Imitation Rain</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/C6G6lo6359Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="600" height="360" src="https://www.youtube.com/embed/C6G6lo6359Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>收錄於《Imitation Rain / D.D.》，同時是SixTONES和Snow Man的第一張單曲，分別由Sony Music Labels及avex trax於2020年1月22日在日本發行。</p>'
 }
 
@@ -506,7 +506,7 @@ function KATTUN() {
     ContentText.innerHTML += '<p>團名原是由6名成員的姓氏羅馬拼音首字母所組成，因為在日文發音中與卡通及「勝利的運氣」相近，而有著像卡通般精采以及勝利的含義；至於中間的「-」，則代表的是粉絲。</p>'
     ContentText.innerHTML += '<p>出道發行的單曲、専輯與DVD，在發行首週即達成三項公信榜冠軍，成為日本史上甫出道即達成三項冠軍的團體或歌手；另外也是USEN綜合排行冠軍、原唱鈴聲下載排行冠軍，而達成前所未有的五冠王佳績。</p>'
     ContentText.innerHTML += '<h1>出演曲目:Real Face #2</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/9tHUx4wPAH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/9tHUx4wPAH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>《Real Face》是KAT-TUN的第一張單曲同是也是出道曲，在出道15年後首次登上紅白，演唱了其改編版本《Real Face#2》。</p>'
 
 }
@@ -517,7 +517,7 @@ function KingPrince() {
     ContentText.innerHTML += '<h1>King & Prince<h1>'
     ContentText.innerHTML += '<p>King & Prince是日本傑尼斯事務所旗下的5人偶像男子組合，於2018年5月23日發行單曲出道，所屬唱片公司為環球音樂。</p>'
     ContentText.innerHTML += '<h1>出演曲目:恋降る月夜に君想ふ</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/nFC1KWmGoXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/nFC1KWmGoXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>為King & Prince的第8張單曲，於2021年10月6日在日本發行，唱片公司為日本環球音樂。同時也是平野紫耀出演東寶電影『輝夜姬想讓人告白～天才們的戀愛頭腦戰～Final』的主題曲。</p>'
 }
 
@@ -528,11 +528,11 @@ function まふまふ() {
     ContentText.innerHTML += '<p>日本男歌手、創作歌手。除個人活動之外，亦同歌手SORARU組成音樂組合「After the Rain」，並擔任其作詞、作曲、編曲。Mafumafu的音域廣及5個八度（A2-C6-C8），可以發出由低音域至與VOCALOID媲美之高音域，音樂影片於網上被觀看超過17億次。</p>'
     ContentText.innerHTML += '<p>為首位於紅白登場的網路歌手。</p>'
     ContentText.innerHTML += '<h1>出演曲目:命に嫌われている。</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/eq8r1ZTma08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/eq8r1ZTma08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>《被生命厭惡著。》是製作人カンザキイオリ創作的歌曲，原唱為初音未來，是一首歌名容易讓人產生誤會的曲子，但實際上這首歌的歌詞是在勸人努力勇敢的活下去。</p>'
     ContentText.innerHTML += '<p>雖然まふまふ也有自己原創的曲子，但由於此曲為他最有名的翻唱歌曲，NHK指定了《被生命厭惡著。》作為表演曲目。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:それを愛と呼ぶだけ</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/bMwLJHWP1UE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="600" height="360" src="https://www.youtube.com/embed/bMwLJHWP1UE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>橋本環奈×浜辺美波出演的NTT DOCOMO學生折扣廣告的主題曲，同時在Twitter也有#高校生300万人の最高にエモい、以此首歌為製作素材的畢業多媒體投稿活動。</p>'
 }
 
@@ -542,7 +542,7 @@ function SnowMan() {
     ContentText.innerHTML += '<h1>Snow Man<h1>'
     ContentText.innerHTML += '<p>日本傑尼斯事務所旗下的9人男子偶像團體，於2020年1月22日發行單曲出道，所屬唱片公司為傑尼斯和avex trax合作成立的MENT RECORDING。</p>'
     ContentText.innerHTML += '<h1>出演曲目:D.D.</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/rSD7jb4Xjq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/rSD7jb4Xjq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>「D.D.」為「Dancing Dynamite」的縮寫。</p>'
     ContentText.innerHTML += '<p>由於Snow Man和SixTONES在小傑尼斯時期相互羈絆、關係深遠，因此決定將兩團的出道歌曲互相收錄於對方的出道單曲中。</p>'
 }
@@ -554,7 +554,7 @@ function 関ジャニ() {
     ContentText.innerHTML += '<p>日本傑尼斯事務所旗下的男子偶像組合，於2004年9月22日出道，成員皆由關西小傑尼斯中選出。</p>'
     ContentText.innerHTML += '<p>出道時原屬TEICHIKU唱片公司的「歌謠、演歌」部門，第六張單曲「跌跌撞撞男人路」之後，轉為旗下所屬的流行音樂部門「IMPERIAL RECORDS」所屬。2014年8月25日成立自主唱片品牌「INFINITY RECORDS（インフィニティ・レコ―ズ）」[1]。 </p>'
     ContentText.innerHTML += '<h1>出演曲目:Re:LIVE</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/5IZEBOfn6tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/5IZEBOfn6tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>為関ジャニ∞第44張單曲，在暌違12年後舉辦的47都道府縣的巡迴演唱會中，因新型冠狀病毒的疫情發生，在完成第20個公演後就中斷了巡演。藉此推動了Re:LIVE Project。與粉絲們的「情誼」、「聯繫」為主題，一起共同創作了此曲的歌詞。</p>'
 }
 
@@ -567,7 +567,7 @@ function 平井大() {
     ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/Zy_KuTFwot4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>描寫「75億分之1個人與另1個人相戀」的歌詞，唱出因奇蹟般的邂逅而誕生出的普通日常之重要性，成為一首令人印象深刻的寶藏情歌。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:THE GIFT</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/ECe0KBlN0a8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="600" height="360" src="https://www.youtube.com/embed/ECe0KBlN0a8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>為日本國民動畫電影『哆啦A夢：大雄的月球探測記』訂製創作的主題曲。</p>'
     ContentText.innerHTML += '<p>在日本發行短短一週立即奪下Apple Music綜合排行榜冠軍，並在日本Oricon公信榜分別獲得數位專輯週間排行榜第六名及專輯合計銷量週間排行榜第10名的優異成績。</p>'
 }
@@ -578,7 +578,7 @@ function 宮本浩次() {
     ContentText.innerHTML += '<h1>宮本浩次<h1>'
     ContentText.innerHTML += '<p>日本搖滾樂團ELEPHANT KASHIMASHI主唱、吉他手、音樂製作人。經紀公司為Amuse，唱片公司為日本環球音樂。</p>'
     ContentText.innerHTML += '<h1>出演曲目:夜明けのうた</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/MbT2_QH0db0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/MbT2_QH0db0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>東京電視台2002年播放的紀錄片『日経スペシャル ガイアの夜明け』的片尾曲，詞曲皆為宮本浩次創作。</p>'
 }
 
@@ -590,10 +590,10 @@ function 藤井風() {
     ContentText.innerHTML += '<p>曾在高中時擔任合唱團的伴奏，得到音樂老師的鼓勵後，決定往音樂發展。</p>'
     ContentText.innerHTML += '<p>第一個在紅白上穿拖鞋表演的歌手。</p>'
     ContentText.innerHTML += '<h1>出演曲目:きらり</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/TcLLpZBWsck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/TcLLpZBWsck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>於2021年5月在HEHN RECORDS / UNIVERSAL SIGMA發布，作為Honda『VEZEL』的廣告曲。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:旅路</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/29p8FvT_puU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/29p8FvT_puU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>日本朝日電視台於2021年1月開播的日劇『虹色病例簿』的主題曲，MV中的場景為藤井風的高中母校。</p>'
 }
 function 鈴木雅之() {
@@ -602,10 +602,10 @@ function 鈴木雅之() {
     ContentText.innerHTML += '<h1>鈴木雅之<h1>'
     ContentText.innerHTML += '<p>鈴木雅之是日本男歌手，有「ラブソングの王様」之稱。出身於東京都大田區大森西。</p>'
     ContentText.innerHTML += '<h1>出演曲目:め組のひと</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/rWQojR1OsAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/rWQojR1OsAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>鈴木雅之早期組成的團體『ラッツ&スター』時期發表的作品，他們將臉塗黑表演，歌曲也模仿充滿黑人風的搖擺歡樂氣息。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:DADDY! DADDY! DO! feat. 鈴木愛理</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/2Od7QCsyqkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/2Od7QCsyqkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>鈴木雅之於2020年發表的第40張單曲，鈴木愛理客串伴唱，為電視動畫《輝夜姬想讓人告白～天才們的戀愛頭腦戰～》第二季的主題曲。</p>'
     ContentText.innerHTML += '<p>因為出道39年來首次主唱動畫歌曲，被稱為「動畫歌曲界的大型新人」。</p>'
 }
@@ -616,7 +616,7 @@ function ゆず() {
     ContentText.innerHTML += '<h1>ゆず<h1>'
     ContentText.innerHTML += "<p>日本的一個二人樂團，出身於神奈川縣橫濱市磯子區岡村。TOY'S FACTORY的關聯公司SENHA & Co.所屬。主要成員是北川悠仁和岩澤厚治。</p>"
     ContentText.innerHTML += '<h1>出演曲目:虹</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/v6OGBzOtZr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/v6OGBzOtZr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>柚子樂隊的第29張單曲。2009年9月2日由其所屬公司Senha&Company發售。</p>'
 }
 
@@ -627,7 +627,7 @@ function 星野源() {
     ContentText.innerHTML += '<p>日本男性創作歌手、演員及作家，埼玉縣川口市出身。經紀公司分屬於Amuse（音樂合約）、大人計畫（演員合約）。</p>'
     ContentText.innerHTML += '<p>由於2021年在社交媒體宣布跟女演員新垣結衣結婚，成為紅白直播間唯一噓聲大於掌聲的歌手。</p>'
     ContentText.innerHTML += '<h1>出演曲目:不思議</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/ilnLczvLGAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/ilnLczvLGAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>星野源第12張單曲，為日劇『着飾る恋には理由があって』主題曲，睽違三年半的新作品。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:恋</h1>'
     ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/jhOVibLEDhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
@@ -642,10 +642,10 @@ function BUMPOFCHICKEN() {
     ContentText.innerHTML += "<p>BUMP OF CHICKEN是日本搖滾樂團，簡稱「バンプ」、「BUMP」、「BOC」、「棒棒雞」，於1994年以主唱藤原基央為中心組成，1999年在主流歌壇出道。所屬唱片公司為TOY'S FACTORY。</p>"
     ContentText.innerHTML += '<p>團名有「弱者的反擊」之意。 </p>'
     ContentText.innerHTML += '<h1>出演曲目:なないろ</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/ZvFs03X944E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/ZvFs03X944E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>2021年5月發布的第16張單曲，作為NHK連續電視小說『おかえりモネ』的主題曲。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:天体観測</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/j7CDb610Bg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="600" height="360" src="https://www.youtube.com/embed/j7CDb610Bg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>BUMP OF CHICKEN於2001年發布的第3張單曲，是關西富士電視台的同名電視劇的插曲。</p>'
 }
 
@@ -656,7 +656,7 @@ function 氷川きよし() {
     ContentText.innerHTML += "<p>本名山田清志，是一名日本男性演歌歌手，出生於福岡縣福岡市。目前所屬唱片公司為日本古倫美亞。</p>"
     ContentText.innerHTML += '<p>冰川清志的形象自2019年開始轉向中性打扮，同時也開始改留長頭髮，2021年起，冰川在多場的演唱會及公開演出中，更開始以女性打扮及服飾登台，雖然目前為止，他仍沒有公開表示過自己的性傾向。</p>'
     ContentText.innerHTML += '<h1>出演曲目:歌は我が命</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/BLuysI2ellI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/BLuysI2ellI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>原唱為美空ひばり，由吉田旺負責作詞，井上かつお作曲，平成19年發售的曲子。</p>'
 }
 
@@ -666,10 +666,10 @@ function 布袋寅泰() {
     ContentText.innerHTML += '<h1>布袋寅泰<h1>'
     ContentText.innerHTML += "<p>日本搖滾音樂家、吉他手，出身於群馬縣高崎市江木町。他曾擔任BOØWY等搖滾樂團的吉他手而聞名，BOØWY解散後以個人名義在樂壇活動，2012年移居倫敦並擔任自身經紀公司DADA MUSIC的CEO。</p>"
     ContentText.innerHTML += '<h1>出演曲目:さらば青春の光</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/fGpQuqw7vR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/fGpQuqw7vR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>1993年自EMI音樂發布的第6張單曲，為TBS周日劇場『課長サンの厄年』的主題曲，詞曲皆為自己負責。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:バンビーナ</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/G4zbSlU9XFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="600" height="360" src="https://www.youtube.com/embed/G4zbSlU9XFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>負責作詞的森雪之丞在聽了DEMO音檔後，表示「デモ・テープを聴いた時、遊園地のアトラクション的疾走感にぶったまげたと同時に、布袋君の測り知れないキャパシティの広さに感動を覚えた。」。</p>'
 }
 
@@ -680,10 +680,10 @@ function 福山雅治() {
     ContentText.innerHTML += '<p>日本男性創作歌手、演員、電台DJ、攝影師，出生於長崎，並擔任長崎故鄉大使。所屬經紀公司為AMUSE，所屬唱片公司為環球音樂。</p>'
     ContentText.innerHTML += '<p>除了早期剛出道時的少數作品，福山雅治的音樂詞曲都由他本人創作，根據日本Oricon統計，截至2017年9月，福山雅治的音樂作品總銷量達到2410萬張，為日本歷代男性獨唱歌手的銷量冠軍。</p>'
     ContentText.innerHTML += '<h1>出演曲目:道標</h1>'
-    ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/JYW__3jgkxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/JYW__3jgkxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>2009年迎來出道20週年的福山雅治，創作了融入對敬愛的祖母的思念的新曲，同曲是日本電視台報道節目《NEWS ZERO》的主題曲。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:恋</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="320" src="https://www.youtube.com/embed/g2REisKOrOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="600" height="360" src="https://www.youtube.com/embed/g2REisKOrOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>福山雅治第25張單曲，由日本環球音樂製作並販售，同時也作為東芝液晶電視《REGZA》廣告曲。</p>'
 }
 
