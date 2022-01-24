@@ -494,7 +494,7 @@ function SixTONES() {
     ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/WAvDu9DzcSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>於2021發布的第五張單曲，由KingGnu的製作人常田大希負責詞曲。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:Imitation Rain</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="360" src="https://www.youtube.com/embed/C6G6lo6359Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/C6G6lo6359Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>收錄於《Imitation Rain / D.D.》，同時是SixTONES和Snow Man的第一張單曲，分別由Sony Music Labels及avex trax於2020年1月22日在日本發行。</p>'
 }
 
@@ -532,7 +532,7 @@ function まふまふ() {
     ContentText.innerHTML += '<p>《被生命厭惡著。》是製作人カンザキイオリ創作的歌曲，原唱為初音未來，是一首歌名容易讓人產生誤會的曲子，但實際上這首歌的歌詞是在勸人努力勇敢的活下去。</p>'
     ContentText.innerHTML += '<p>雖然まふまふ也有自己原創的曲子，但由於此曲為他最有名的翻唱歌曲，NHK指定了《被生命厭惡著。》作為表演曲目。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:それを愛と呼ぶだけ</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="360" src="https://www.youtube.com/embed/bMwLJHWP1UE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/bMwLJHWP1UE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>橋本環奈×浜辺美波出演的NTT DOCOMO學生折扣廣告的主題曲，同時在Twitter也有#高校生300万人の最高にエモい、以此首歌為製作素材的畢業多媒體投稿活動。</p>'
 }
 
@@ -567,7 +567,7 @@ function 平井大() {
     ContentText.innerHTML += '<iframe width="640" height="320" src="https://www.youtube.com/embed/Zy_KuTFwot4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>描寫「75億分之1個人與另1個人相戀」的歌詞，唱出因奇蹟般的邂逅而誕生出的普通日常之重要性，成為一首令人印象深刻的寶藏情歌。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:THE GIFT</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="360" src="https://www.youtube.com/embed/ECe0KBlN0a8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/ECe0KBlN0a8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>為日本國民動畫電影『哆啦A夢：大雄的月球探測記』訂製創作的主題曲。</p>'
     ContentText.innerHTML += '<p>在日本發行短短一週立即奪下Apple Music綜合排行榜冠軍，並在日本Oricon公信榜分別獲得數位專輯週間排行榜第六名及專輯合計銷量週間排行榜第10名的優異成績。</p>'
 }
@@ -645,7 +645,7 @@ function BUMPOFCHICKEN() {
     ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/ZvFs03X944E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>2021年5月發布的第16張單曲，作為NHK連續電視小說『おかえりモネ』的主題曲。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:天体観測</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="360" src="https://www.youtube.com/embed/j7CDb610Bg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/j7CDb610Bg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>BUMP OF CHICKEN於2001年發布的第3張單曲，是關西富士電視台的同名電視劇的插曲。</p>'
 }
 
@@ -669,7 +669,7 @@ function 布袋寅泰() {
     ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/fGpQuqw7vR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>1993年自EMI音樂發布的第6張單曲，為TBS周日劇場『課長サンの厄年』的主題曲，詞曲皆為自己負責。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:バンビーナ</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="360" src="https://www.youtube.com/embed/G4zbSlU9XFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/G4zbSlU9XFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>負責作詞的森雪之丞在聽了DEMO音檔後，表示「デモ・テープを聴いた時、遊園地のアトラクション的疾走感にぶったまげたと同時に、布袋君の測り知れないキャパシティの広さに感動を覚えた。」。</p>'
 }
 
@@ -683,7 +683,7 @@ function 福山雅治() {
     ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/JYW__3jgkxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>2009年迎來出道20週年的福山雅治，創作了融入對敬愛的祖母的思念的新曲，同曲是日本電視台報道節目《NEWS ZERO》的主題曲。</p>'
     ContentText.innerHTML += '<h1>推薦曲目:恋</h1>'
-    ContentText.innerHTML += '<iframe width="600" height="360" src="https://www.youtube.com/embed/g2REisKOrOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    ContentText.innerHTML += '<iframe width="640" height="360" src="https://www.youtube.com/embed/g2REisKOrOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ContentText.innerHTML += '<p>福山雅治第25張單曲，由日本環球音樂製作並販售，同時也作為東芝液晶電視《REGZA》廣告曲。</p>'
 }
 
